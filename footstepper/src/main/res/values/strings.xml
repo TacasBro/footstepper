@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FootStepper</string>
+    <string name="steps_daily_show">Kroki dzisiaj</string>
+    <string name="steps_since_restart_show">Ilość kroków od restartu</string>
+    <string name="reset_butt">Resetuj</string>
+    <string name="no_sensor_prompt">Brak posiadanego Sensora!</string>
+    <string name="reseted_prompt">Zresetowano</string>
+    <string name="title_activity_achievements">Achievements</string>
+    <string name="total_steps_title">Łączenie liczba kroków: </string>
+    <string name="achievements">Achievementy</string>
+</resources>
